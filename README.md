@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=CeSar;Offensive+Security;Red+Team+Operations;Windows+Attack+Surface+Analysis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=CeSar;Red+Team+Operations;Windows+Attack+Surface;Threat+Modeling" />
 </p>
 
 ## CeSar — Offensive Security
