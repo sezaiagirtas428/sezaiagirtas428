@@ -4,8 +4,5 @@
 
 ## CeSar — Offensive Security
 
-I focus on **Offensive Security and Red Team operations**, with a primary interest in **Windows attack surface analysis**.
-
-My work centers on understanding systems from an attacker’s perspective, while evaluating defensive mechanisms and hardening opportunities through hands-on analysis and experimentation.
-
-🔗 LinkedIn: https://www.linkedin.com/in/sezai-a-a9852b297/
+I work in the field of Offensive Security and Red Team operations, with a particular focus on Windows attack surface analysis, assessing systems from an attacker’s perspective while systematically evaluating defensive mechanisms and security hardening opportunities through hands-on analysis and experimentation.
+LinkedIn: https://www.linkedin.com/in/sezai-a-a9852b297/
