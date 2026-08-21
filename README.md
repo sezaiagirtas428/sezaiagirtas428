@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=CeSar;Red+Team+Operations;Windows+Attack+Surface;Threat+Modeling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=CeSar;Web+Development" />
 </p>
 
-## CeSar — Offensive Security
+## CeSar — Web & Systems
 
-I work in the field of Offensive Security and Red Team operations, with a particular focus on Windows attack surface analysis, assessing systems from an attacker’s perspective while systematically evaluating defensive mechanisms and security hardening opportunities through hands-on analysis and experimentation.
+I work on web development and systems, building and analyzing applications with attention to performance, structure, and reliability. My work combines hands-on development with a practical understanding of how systems work end-to-end — from front-end to back-end.
+
 LinkedIn: https://www.linkedin.com/in/sezai-a-a9852b297/
